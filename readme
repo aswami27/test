@@ -5,3 +5,5 @@ Large Language Models (LLMs): At their core, these chatbots are driven by LLMs. 
 Natural Language Processing (NLP): They use NLP techniques to interpret user input, identifying the intent and meaning behind the words.
 Machine and Deep Learning: Machine learning enables the chatbot to improve its responses over time by learning from past interactions. Deep learning, a subset of machine learning, uses multiple layers of algorithms to process information with increasing sophistication.
 Retrieval-Augmented Generation (RAG): Some chatbots use RAG to go beyond their core training data. When a user asks a question, the chatbot can search an external knowledge base (like internal documents or public information) to find the most relevant information before generating a response. 
+
+..
